@@ -27,12 +27,6 @@ def getMonth(month):
 
 month = getMonth(dt.month)
 
-# db.execute('''CREATE TABLE SAVINGS 
-#         (ID INTEGER PRIMARY KEY AUTOINCREMENT   NOT NULL,
-#         USER TEXT NOT NULL,
-#           USER_ID       ,
-#           AMOUNT NOT NULL  
-#          );''')
 
 print("Welcome to the Lautech Cooperative Society. \n What operation would you like to perform today?")
 print("    ")

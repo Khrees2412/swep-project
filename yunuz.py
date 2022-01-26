@@ -6,7 +6,7 @@ _month = dt.month
 day = dt.day
 
 
-print("Welcome to the Lautech Student library.\n What operation would you like to perform today?")
+print("Welcome to the Lautech Student library.\nWhat operation would you like to perform today?")
 print("    ")
 op_code = int(input(" * Select 1 to find a match for a book \n * Select 2 to store a new book in the library: " ))
 
